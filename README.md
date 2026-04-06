@@ -70,41 +70,19 @@ git init
 git status
 
 
-### Clone Repository
+### Clone Repository: git clone <repository-link>
 
-git clone <repository-link>
+### Add Files (Stage) : git add <filename> or for all files - git add .
 
+### Commit Changes : git commit -m "Meaningful message"
 
-### Add Files (Stage)
+### Connect to Remote Repository : git remote add origin <repository-link>
 
-git add <filename>
-git add .
-
-
-### Commit Changes
-
-git commit -m "Meaningful message"
-
-
-### Connect to Remote Repository
-
-git remote add origin <repository-link>
-
-
-### Push Code
-
-git push origin main
-
-
+### Push Code : git push origin main
 First time:
-
 git push -u origin main
 
-
-### Pull Code
-
-git pull origin main
-
+### Pull Code : git pull origin main
 
 ---
 
@@ -112,30 +90,15 @@ git pull origin main
 
 Branches allow multiple developers to work without affecting the main code.
 
-### Check Branches
+### Check Branches : git branch
 
-git branch
+### Rename Branch : git branch -m <new-name>
 
+### Create and Switch Branch : git checkout -b <branch-name>
 
-### Rename Branch
+### Switch Branch : git checkout <branch-name>
 
-git branch -m <new-name>
-
-
-### Create and Switch Branch
-
-git checkout -b <branch-name>
-
-
-### Switch Branch
-
-git checkout <branch-name>
-
-
-### Delete Branch
-
-git branch -d <branch-name>
-
+### Delete Branch : git branch -d <branch-name>
 
 ---
 
