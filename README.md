@@ -40,7 +40,7 @@ git config --list
 
 ---
 
-# Git File States
+ # Git File States
 
 Git tracks files in four states:
 
@@ -78,8 +78,8 @@ First time : git push -u origin main
 Branches allow multiple developers to work without affecting the main code.
 
 #### Check Branches                 :  git branch  
-#### Rename Branch                  :  git branch -m <new-name>  
-<p> <b> Create and Switch Branch <b>       :  git checkout -b <branch-name> </p>  
+<p> <i> Rename Branch </i>                  :  git branch -m <new-name>  </p>
+<p> <b> Create and Switch Branch </b>       :  git checkout -b <branch-name> </p>  
 <p> <b> Switch Branch </b>    :  git checkout  <branch-name> </p>  
 <p> <b> Delete Branch </b>    :  git branch -d <branch-name> </p> 
 
