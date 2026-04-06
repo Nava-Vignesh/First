@@ -1,6 +1,7 @@
 # First Repo
 This is my first Repository in Github.  
-This is the second line of text.
+This is the Notes of my learning of  basic git.  
+
 
 - Public: Visible to anyone  
 - Private: Visible only to you  
