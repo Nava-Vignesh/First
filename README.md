@@ -81,7 +81,7 @@ Branches allow multiple developers to work without affecting the main code.
 #### Rename Branch                  :  git branch -m <new-name>  
 #### Create and Switch Branch       :  git checkout -b <branch-name>  
 #### Switch Branch                  :  git checkout <branch-name>  
-<p> <bold> Delete Branch </bold>    :  git branch -d </p> <branch-name> </branch-name>
+<p> <b> Delete Branch </b>    :  git branch -d </p> <branch-name> </branch-name>
 
 ---
 
