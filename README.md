@@ -61,15 +61,15 @@ Git tracks files in four states:
 # Essential Git Commands and Workflow
 
 ### Initialize Repository : git init
-Check Status                  :  git status  
-Clone Repository              : git clone <repository-link>  
-Add Files (Stage)             : git add <filename> or for all files - git add .  
-Commit Changes                : git commit -m "Meaningful message"  
+#### Check Status              :  git status  
+#### Clone Repository              : git clone <repository-link>  
+#### Add Files (Stage)             : git add <filename> or for all files - git add .  
+#### Commit Changes                : git commit -m "Meaningful message"  
   
-Connect to Remote Repository : git remote add origin <repository-link>  
-Push Code                    : git push origin main  
+#### Connect to Remote Repository : git remote add origin <repository-link>  
+#### Push Code                    : git push origin main  
 First time : git push -u origin main    
-Pull Code : git pull origin main 
+#### Pull Code : git pull origin main 
 
 ---
 
@@ -77,11 +77,11 @@ Pull Code : git pull origin main
 
 Branches allow multiple developers to work without affecting the main code.
 
-Check Branches                 :  git branch  
-Rename Branch                  :  git branch -m <new-name>  
-Create and Switch Branch       :  git checkout -b <branch-name>  
-Switch Branch                  :  git checkout <branch-name>  
-Delete Branch                  :  git branch -d <branch-name> 
+#### Check Branches                 :  git branch  
+#### Rename Branch                  :  git branch -m <new-name>  
+#### Create and Switch Branch       :  git checkout -b <branch-name>  
+#### Switch Branch                  :  git checkout <branch-name>  
+#### Delete Branch                  :  git branch -d <branch-name> 
 
 ---
 
