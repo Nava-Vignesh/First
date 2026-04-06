@@ -79,12 +79,11 @@ Pull Code : git pull origin main
 
 Branches allow multiple developers to work without affecting the main code.
 
-Check Branches : git branch  
-Rename Branch : git branch -m <new-name>  
-Create and Switch Branch : git checkout -b <branch-name>  
-Switch Branch : git checkout <branch-name>  
-Delete Branch : git branch -d <branch-name>  
-
+Check Branches           : git branch  
+Rename Branch            : git branch -m <new-name>  
+Create and Switch Branch :  git checkout -b <branch-name>  
+Switch Branch            :  git checkout <branch-name>  
+Delete Branch            :  git branch -d <branch-name> 
 ---
 
 # Merging and Pull Requests
