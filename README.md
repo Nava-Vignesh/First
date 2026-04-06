@@ -18,7 +18,7 @@ A special markdown file that contains:
 # Setting Up Git Locally
 
 ## Requirements
-- Code editor (e.g., VS Code)
+- Code editor (e.g., VS Code)  
 - Terminal (Git Bash / Command Prompt / Mac/Linux Terminal)
 
 ## Verify Installation
@@ -101,3 +101,4 @@ git diff <branch-name>
 - Submit changes for review
 - Senior developers review and approve
 - Code is merged into the main branch
+
