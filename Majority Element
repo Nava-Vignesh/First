@@ -4,7 +4,8 @@
 l = list(map(int,input("input:").split(',')))
 print(l)
 s = len(l)
-n = [x for x in l if l.count(x)>s//2]
-print(n[0])
+n = [x  for x in l if l.count(x)>s//2]
+n =list(set(n))
+print(n)
 
 """Method 2"""
