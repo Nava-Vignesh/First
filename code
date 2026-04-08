@@ -1,0 +1,8 @@
+#First code
+# Highest Frequency number or majority element
+"""Method 1 - Trial"""
+l = list(map(int,input("input:").split(',')))
+print(l)
+s = len(l)
+n = [x for x in l if l.count(x)>s//2]
+print(n[0])
