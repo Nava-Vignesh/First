@@ -40,7 +40,7 @@ git config --list
 
 ---
 
- # Git File States
+ # Git File State
 
 Git tracks files in four states:
 
