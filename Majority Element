@@ -6,7 +6,7 @@ print(l)
 s = len(l)
 n = [x  for x in l if l.count(x)>s//2]
 n =list(set(n))
-print(s)
+print(4)
 
 """Method 2"""
 #try differently
