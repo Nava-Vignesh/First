@@ -9,4 +9,4 @@ n =list(set(n))
 print(n)
 
 """Method 2"""
-#try differently
+#try different
